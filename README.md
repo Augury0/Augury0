@@ -18,7 +18,6 @@ Minions are cute 💛!
 
 💼 Currently I'm looking for Fulltime Opprtunities in Software Engineer/Video Engineer Roles.
 
-![](https://i.gifer.com/Dtf.gif)
 - 💼 Reach out to me ? do reach.
 - 💬 Ask me about anything, i am happy to help;
 
