@@ -12,14 +12,14 @@
 
 <br />
 
-Hello, I'm Jainish, I'm currently on the lookout for an awesome full-time gig as a Software Engineer 👨‍💻. But hey, if you need someone who can rock it with video and image files, I'm your go-to Video Engineer! Let's connect and create some magic together! 🚀 I completed my masters in Computer Science with Thesis at Western Illinois University(WIU) 🎓.
+Hello, I'm Jainish, I'm currently on the lookout for an awesome full-time gig as a Software Engineer 👨‍💻. But hey, if you need someone who can rock it with video and image files, I'm your go-to Video Engineer! Let's connect and create some magic together! 🚀 I completed my master's in Computer Science with a Thesis at Western Illinois University(WIU) 🎓.
 
 Minions are cute 💛!
 
-💼 Currently I'm looking for Fulltime Opprtunities in Software Engineer/Video Engineer Roles.
+💼 Currently I'm looking for Fulltime opportunities in Software Engineer/Video Engineer Roles.
 
-- 💼 Reach out to me ? do reach.
-- 💬 Ask me about anything, i am happy to help;
+- 💼 Reach out to me? do reach.
+- 💬 Ask me about anything, I am happy to help;
 
 [![Augury's GitHub stats](https://github-readme-stats.vercel.app/api?username=augury0&hide=stars&count_private=true&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -72,6 +72,6 @@ Minions are cute 💛!
 🚧 About Me Short 
 <!-- TODO-IST:START -->
 🏆  Masters, Computer Science - Thesis, WIU        
-🌸  Bahelors, Computer Engineering, GTU.                    
+🌸  Bachelors, Computer Engineering, GTU.                    
 ⏳  Working on C++, Python and FFMpeg.
 <!-- TODO-IST:END -->
