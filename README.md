@@ -3,7 +3,7 @@
   <img align="left" alt="Gmail address" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" />
 </a>
 
-<a href="https://www.linkedin.com/in/jainish-shah-a04764aa/">
+<a href="https://www.linkedin.com/in/jainish-s-a04764aa/">
   <img align="left" alt="Jainish Shah's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
