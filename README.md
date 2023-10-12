@@ -1,4 +1,4 @@
-### Hey there 👋 <img align="right" src="https://github.com/Augury0/Augury0/blob/main/Assets/favpng_minion.png" width="100px">
+### Hey there 👋 <img align="right" src="https://github.com/Augury0/Augury0/blob/main/Minions.jpg" width="100px">
 <a href="mailto:augury05@gmail.com">
   <img align="left" alt="Gmail address" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" />
 </a>
