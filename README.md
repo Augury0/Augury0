@@ -1,14 +1,14 @@
-### Hey there 👋 <img align="right" src="https://github.com/Auguryy/Auguryy/blob/main/Minions.jpg" width="100px">
-<a href="mailto:augury05@gmail.com">
+### Hey there 👋 <img align="right" src="https://github.com/ProgramSeer/ProgramSeer/blob/main/Minions.jpg" width="100px">
+<a href="mailto:programseer@gmail.com">
   <img align="left" alt="Gmail address" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" />
 </a>
 
 
-![](https://visitor-badge.glitch.me/badge?page_id=auguryy.auguryy&left_color=green&right_color=red)
+![](https://visitor-badge.glitch.me/badge?page_id=ProgramSeer.ProgramSeer&left_color=green&right_color=red)
 
 <br />
 
-Hello, I'm Jainish, I'm currently on the lookout for an awesome full-time gig as a Software Engineer 👨‍💻. But hey, if you need someone who can rock it with video and image files, I'm your go-to Video Engineer! Let's connect and create some magic together! 🚀 I completed my master's in Computer Science with a Thesis at Western Illinois University(WIU) 🎓.
+Hello, I'm currently on the lookout for an awesome full-time gig as a Software Engineer 👨‍💻. But hey, if you need someone who can rock it with video and image files, I'm your go-to Video Engineer! Let's connect and create some magic together! 🚀 I completed my master's in Computer Science with a Thesis at Western Illinois University(WIU) 🎓.
 
 Minions are cute 💛!
 
@@ -17,7 +17,7 @@ Minions are cute 💛!
 - 💼 Reach out to me? do reach.
 - 💬 Ask me about anything, I am happy to help;
 
-[![Augury's GitHub stats](https://github-readme-stats.vercel.app/api?username=augury0&hide=stars&count_private=true&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Augury's GitHub stats](https://github-readme-stats.vercel.app/api?username=ProgramSeer0&hide=stars&count_private=true&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 👨🏻‍💻 Languages I'm familiar with. <br />
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
