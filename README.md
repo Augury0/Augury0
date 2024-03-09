@@ -12,12 +12,12 @@ Hello, I'm currently on the lookout for an awesome full-time gig as a Software E
 
 Minions are cute 💛!
 
-💼 Currently I'm looking for Fulltime opportunities in Software Engineer/Video Engineer Roles.
+💼 Currently, I'm looking for Full-time opportunities in Software Engineer/Video Engineer Roles.
 
 - 💼 Reach out to me? do reach.
 - 💬 Ask me about anything, I am happy to help;
 
-[![Augury's GitHub stats](https://github-readme-stats.vercel.app/api?username=ProgramSeer0&hide=stars&count_private=true&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Augury's GitHub stats](https://github-readme-stats.vercel.app/api?username=ProgramSeer&hide=stars&count_private=true&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 👨🏻‍💻 Languages I'm familiar with. <br />
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -66,8 +66,6 @@ Minions are cute 💛!
 
 
 🚧 About Me Short 
-<!-- TODO-IST:START -->
-🏆  Masters, Computer Science - Thesis, WIU        
-🌸  Bachelors, Computer Engineering, GTU.                    
+<!-- TODO-IST:START -->                 
 ⏳  Working on C++, Python and FFMpeg.
 <!-- TODO-IST:END -->
